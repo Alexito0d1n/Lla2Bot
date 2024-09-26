@@ -1,0 +1,18 @@
+# Ignorar el archivo de configuración de dependencias
+package.json
+package-lock.json
+
+# Ignorar el archivo de variables de entorno
+.env
+
+# Ignorar carpetas de dependencias
+node_modules/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar cualquier archivo de configuración local
+*.local
+
+# Ignorar archivos temporales
+*.tmp
